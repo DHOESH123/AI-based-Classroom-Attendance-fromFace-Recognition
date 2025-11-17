@@ -1,7 +1,7 @@
 # AI-based-Classroom-Attendance-fromFace-Recognition
 
-### Name:  Aravindan D
-### Ref No: 212223240012
+### Name:  ESHWAR T
+### Ref No: 212223230054
 
 # Overview
 
